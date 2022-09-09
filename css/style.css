@@ -5,12 +5,159 @@ section{
     padding: 60px 0px;
 }
 
+.a{
+    text-decoration: none;
+}
+
 
 .navbar{
     background-color: #0A2640;
     padding: 40px 0px 40px 0px;
 }
 
-.navitem:hover{
-    color: #48E49A;
+.navitem .active{
+    color: #48E49A !important;
 }
+
+.navbar-nav{
+    gap: 40px;
+}
+
+.navbar-nav a :hover{
+    color: white;
+}
+
+.nav-itemd {
+    border-radius: 60px;
+    background-color: white;
+    padding: 0 20px 0 20px;
+}
+
+.ororotbtn{
+    background-color: #48E49A;
+    border-radius: 100px;
+    padding: 20px 80px 20px 80px;
+}
+
+.secondbtn{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 100px;
+    padding: 20px 80px 20px 80px;
+}
+
+
+#bgsection{
+    background-color: #0A2640;
+    
+}
+
+.a, .b{
+    border-radius: 100px;
+    padding: 15px 0 15px 0;
+}
+
+.a{
+    background-color: #48E49A !important;
+}
+
+.border-bottom{
+    border-bottom: 2px solid !important;
+    
+}
+.prestobold{
+    margin-top: 90px;
+}
+
+
+.thirdbtn{
+    background-color: #0A2640;
+    border: 1px solid white;
+    color: white;
+    border-radius: 100px;
+    padding: 20px 80px 20px 80px;
+    text-decoration: none;
+}
+
+
+#cyborg{
+    background-color: #0A2640;
+}
+
+/* .kelly{
+    display: flex;
+    gap: 20px;
+    border-radius: 30px;
+} */
+
+
+
+
+.kelly{
+    margin-top: 5rem;
+    display: flex;
+    gap: 2rem;
+}
+
+
+
+.row{
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.lastbtn{
+    border-radius: 100px;
+    padding: 20px 80px 20px 80px;
+}
+
+.firsto{
+    background-color: #0A2640;
+    padding: 6rem;
+}
+
+.trump{
+    gap: 100px;
+}
+
+.naya{
+    background-color: #48E49A;
+    border-radius: 100px;
+    padding: 20px 50px 20px 50px;
+    color: #0A2640;
+}
+
+.form-control{
+    border-radius: 100px;
+    background-color: aliceblue;
+    padding: 20px 80px 20px 80px;
+}
+
+.career{
+    gap: 8px;
+}
+
+.juju{
+    border-radius: 60px;
+    background-color: #48E49A;
+    padding: 0 10px 0 10px;
+}
+
+.rexy{
+    gap: 100px;
+}
+
+.allah{
+    gap: 50px;
+}
+
+.ewu{
+    padding: 40px 40px 40px 40px;
+}
+
+
+
+
+
+
+
