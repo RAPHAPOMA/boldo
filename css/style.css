@@ -5,6 +5,11 @@ section{
     padding: 60px 0px;
 }
 
+.html,body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
 .a{
     text-decoration: none;
 }
@@ -74,8 +79,8 @@ section{
     background-color: #0A2640;
     border: 1px solid white;
     color: white;
-    border-radius: 100px;
-    padding: 20px 80px 20px 80px;
+    border-radius: 80px;
+    padding: 20px 40px 20px 40px;
     text-decoration: none;
 }
 
