@@ -152,9 +152,17 @@ section{
 }
 
 .ewu{
-    padding: 40px 40px 40px 40px;
+    /* padding: 40px; */
 }
 
+.images1, .images2, .images3{
+    box-shadow:5px 5px 10px wheat;
+}
+
+.images1:hover, .images2:hover, .images3:hover{
+    background-color: #0A2640;
+    color: #fff;
+}
 
 
 
